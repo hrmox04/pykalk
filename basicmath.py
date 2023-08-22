@@ -13,5 +13,5 @@ def doMul(num1, num2):
     return answer
 #Divide two numbers and return the result
 def doDiv(num1, num2):
-    answer = num1 / num2
-    return answer
+    nswer = num1 / num2
+    return answer   
