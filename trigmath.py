@@ -1,2 +1,2 @@
-#This will hold the transcendental functions for pykalk
+#This will hold the trigonometric functions for the pykalk program
 #We will be building sin(), cos(), tan(), exp(), log(), ln() functionality
